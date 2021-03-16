@@ -1,5 +1,8 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
+[![Build Status](https://dev.azure.com/lassisolita/DevOps%20with%20GitHub%20workshop/_apis/build/status/LassiAutioSolita.calculator?branchName=master)](https://dev.azure.com/lassisolita/DevOps%20with%20GitHub%20workshop/_build/latest?definitionId=7&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
